@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "avrill.v", quotes: "Whatever happens, keep breathing" },
-    { author: "antjedtta_", quotes: "Pam pam pararam ceklek jedar\nPararam ram parararam ram" },
-    { author: "standinshd", quotes: "Hey! I wuv chuuuu! UwU" },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I'm sorry for loving you." },
+    { author: "abouthey_", quotes: "Aku mengenalmu tanpa sengaja dan menyayangimu secara tiba tiba" },
+    { author: "abouthey_", quotes: "You are mine, I dont like to see you spending\nYour time with other people for so long\nWhile with me its only a blink of an eye" },
+    { author: "abouthey_", quotes: "Kamu tersenyum bahagia dengannya disana\naku tersenyum sambil menahan luka disini" },
+    { author: "abouthey_", quotes: "I love you." },
+    { author: "abouthey_", quotes: "Percaya aja dulu\nmasalah kecewa urusan nanti" },
+    { author: "abouthey_", quotes: "I love you." },
+    { author: "abouthey_", quotes: "I'm sorry for loving you." },
 ];
