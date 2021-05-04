@@ -1,4 +1,4 @@
-# Hi {Cewek}!
+# Hi {Kamu}!
 I made this for you.
 
 ## <u>Build Setup</u>
