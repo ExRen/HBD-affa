@@ -1,8 +1,8 @@
-# Hi Ava!
+# Hi {Cewek}!
 I made this for you.
 
 ## <u>Build Setup</u>
-1. Clone this project `git clone https://github.com/shidoitsuka/hi-ava.git`
+1. Clone this project `git clone https://github.com/shidoitsuka/bucin.git`
 2. Edit `config.js` file
 3. Edit `variables.js` file inside `assets/` folder
 4. Open `config.js` and fill the host and port (if needed)
