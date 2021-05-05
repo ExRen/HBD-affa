@@ -40,7 +40,7 @@
         :loop="true"
         :strings="[greetings() + ', ' + nicknames + '! ^3000', 'Happy Birthday affa !! ^2500', 'I just wanna say, i love you >///<']"
         :backDelay="500"
-        :typeSpeed="100"
+        :typeSpeed="110"
         :backSpeed="20"
         :contentType="'null'"
       >
