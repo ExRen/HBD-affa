@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Happy Birthday affa !! ^2500', 'I just wanna say, i love you >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^3000', 'Happy Birthday affa !! ^2500', 'I just wanna say, i love you >///<']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
